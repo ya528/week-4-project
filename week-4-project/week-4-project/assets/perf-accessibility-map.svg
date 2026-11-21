@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 380" width="640" height="380" role="img" aria-labelledby="perfTitle perfDesc">
+  <title id="perfTitle">Fast Load and Accessible Architecture Diagram</title>
+  <desc id="perfDesc">Diagram showing lightweight assets, semantic landmarks, and keyboard-accessible UI modules.</desc>
+  <rect width="640" height="380" rx="18" fill="#f1f5f9"/>
+  <rect x="32" y="32" width="576" height="52" rx="10" fill="#0f172a"/>
+  <circle cx="62" cy="58" r="8" fill="#38bdf8"/>
+  <rect x="86" y="50" width="140" height="16" rx="4" fill="#e2e8f0"/>
+  <rect x="430" y="48" width="154" height="20" rx="6" fill="#2563eb"/>
+  <rect x="32" y="104" width="356" height="244" rx="12" fill="#ffffff" stroke="#cbd5e1" stroke-width="2"/>
+  <rect x="56" y="132" width="240" height="22" rx="5" fill="#0f172a"/>
+  <rect x="56" y="166" width="308" height="12" rx="4" fill="#64748b"/>
+  <rect x="56" y="188" width="276" height="12" rx="4" fill="#64748b"/>
+  <rect x="56" y="220" width="148" height="40" rx="8" fill="#1d4ed8"/>
+  <rect x="218" y="220" width="146" height="40" rx="8" fill="#e2e8f0"/>
+  <rect x="56" y="282" width="308" height="44" rx="8" fill="#eff6ff" stroke="#93c5fd"/>
+  <rect x="408" y="104" width="200" height="114" rx="12" fill="#ffffff" stroke="#cbd5e1" stroke-width="2"/>
+  <rect x="428" y="126" width="160" height="14" rx="4" fill="#0f172a"/>
+  <rect x="428" y="150" width="128" height="12" rx="4" fill="#16a34a"/>
+  <rect x="428" y="172" width="144" height="12" rx="4" fill="#475569"/>
+  <rect x="408" y="234" width="200" height="114" rx="12" fill="#0f172a"/>
+  <rect x="428" y="256" width="152" height="14" rx="4" fill="#f8fafc"/>
+  <rect x="428" y="280" width="160" height="12" rx="4" fill="#93c5fd"/>
+  <rect x="428" y="302" width="112" height="12" rx="4" fill="#38bdf8"/>
+</svg>
